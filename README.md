@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @andrew-dot-exe, 18 yr old programmer
-- 👀 I’m interested in Python, C# and C programming
-- 🌱 I’m currently learning C, Swift and Java
+👋 Hi, I’m @andrew-dot-exe, 21 yr old programmer
